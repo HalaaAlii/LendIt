@@ -190,7 +190,7 @@ body {
   #paper {
 
 
-      background-image: url("../img/backgr.jpg");
+      background-image: url("public/static/img/backgr.jpg");
       height: 100vh;
       width: 100%;
       background-size: cover;
