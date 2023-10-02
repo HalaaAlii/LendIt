@@ -432,7 +432,7 @@ footer .copyright {
     #paper {
     height: 80vh;
     width: 100%;
-    background-position: top 20% right -300px;
+    background-position: top 20% right -150px;
     padding: 0 80px;
 }
 
@@ -494,7 +494,7 @@ footer .copyright {
     height: 110px;
     line-height: 110px;
     text-align: center;
-    background-color: #F7f6f0;
+    background-color: #f0f2f5;
     margin: 25px 0px;
     left: 250px;
 }
@@ -821,3 +821,15 @@ h1 {
       overflow-x: hidden;
   }
 }
+
+
+  @media (max-width: 1700px) {
+
+
+#profile-info {
+
+    position: relative;
+    left: -100px;
+    justify-content: left;
+}
+  }
